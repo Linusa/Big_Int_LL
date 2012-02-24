@@ -1,0 +1,5 @@
+This program can add and subtract integers of any size, using linked lists. This
+program was for Computer Science 1, and focuses on using pointers and lists. The
+bigint.txt file contains sample input. The file format starts with a integer
+representing the number of operations to perform. Each operation will be represented
+by 3 integers: the operator (1 for add and 2 for subtract) and the two operands.
